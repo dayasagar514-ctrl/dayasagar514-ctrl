@@ -1,4 +1,4 @@
-<img src="github-banner.jpg" alt="Dayasagar V electronics banner" width="100%" />
+<img src="github-banner.png" alt="Dayasagar V electronics banner" width="100%" />
 # Dayasagar V
 
 **Electronics & Communication Engineering Student**
