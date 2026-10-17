@@ -1,4 +1,4 @@
-
+<img src="github-banner.png" alt="Electronics circuit-board banner" width="100%" />
 # Dayasagar V
 
 **Electronics & Communication Engineering Student**
